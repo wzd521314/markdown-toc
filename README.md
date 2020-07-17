@@ -10,4 +10,4 @@
 哦对了，这个函数里监听了body的滚轮事件用的是onscroll的模式，这个会和你自己文件里监听的onscroll事件冲突，～总之兼容贼差，勉强一用
 
 下面放张效果图吧，此为最初期版本，后面可能大概也许会继续完善一下
-[![i-Shot2020-07-17-05-06-48.png](https://i.postimg.cc/pdLztP7d/i-Shot2020-07-17-05-06-48.png)](https://postimg.cc/RW2N7xvr)
+![https://i.postimg.cc/RFkzBVP5/i-Shot2020-07-17-04-55-14.png](https://i.postimg.cc/RFkzBVP5/i-Shot2020-07-17-04-55-14.png)
